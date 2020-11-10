@@ -1,0 +1,11 @@
+<ConsultarNfseRpsEnvio xmlns="http://www.paulistana.com.br/servico_consultar_nfse_rps_envio_v03.xsd" xmlns:tipos="http://www.paulistana.com.br/tipos_v03.xsd">
+    <IdentificacaoRps>
+        <tipos:Numero>248</tipos:Numero>
+        <tipos:Serie>001</tipos:Serie>
+        <tipos:Tipo>1</tipos:Tipo>
+    </IdentificacaoRps>
+    <Prestador>
+        <tipos:Cnpj>23130935000198</tipos:Cnpj>
+        <tipos:InscricaoMunicipal>35172</tipos:InscricaoMunicipal>
+    </Prestador>
+</ConsultarNfseRpsEnvio>
